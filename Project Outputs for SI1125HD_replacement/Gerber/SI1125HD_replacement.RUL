@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\Charlie\Desktop\projects\SI1125HD replacement\SI1125HD_replacement.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=15.75
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_plane|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

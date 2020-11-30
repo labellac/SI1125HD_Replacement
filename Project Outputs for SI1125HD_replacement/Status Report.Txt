@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [SI1125HD_replacement.PcbDoc]
+   Generated File[SI1125HD_replacement.TXT]
+   Generated File[SI1125HD_replacement.LDP]
+   Generated File[SI1125HD_replacement.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:06:31 On 02/11/2020
